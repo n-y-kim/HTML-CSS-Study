@@ -1,5 +1,5 @@
-# HTML & CSS
-<h3>2021-1 html sutdy(생활코딩)</h3>
+# HTML & CSS & JavaScript
+<h3>2021-1 html study(생활코딩)</h3>
 
 <ul>
   <li><strong>3/23</strong> html 11/35</li>
@@ -17,4 +17,8 @@
   <li><strong>3/28</strong> css 9/16</li>
   <li><strong>3/29</strong> css 11/16</li>
   <li><strong>3/30</strong> css 13/16</li>
+  <li><strong>04/01</strong> css 16/16</li>
 </ul>
+<h3>🔥FINISHED!🔥</h3>
+<hr/>
+<h3>2021-1 JavaScript study(생활코딩)</h3>
